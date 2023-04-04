@@ -5,7 +5,6 @@
 
 **Citing**
 
-If you find *Karate Club* and the new datasets useful in your research, please consider citing the following paper:
 
 ```bibtex
 @misc{memarzadeh2023applying,
